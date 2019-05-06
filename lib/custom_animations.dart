@@ -9,7 +9,8 @@ class AnimatedSun extends StatelessWidget {
     return Animator(
       tween: Tween<double>(begin: 0, end: 2 * math.pi),
       duration: Duration(seconds: 7),
-      repeats: 1,
+      // Seven days.
+      repeats: 7,
       builder: (anim) => Transform(
             transform: Matrix4.rotationZ(anim.value),
             alignment: Alignment(0.0, 3),
