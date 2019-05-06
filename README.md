@@ -31,7 +31,7 @@ Note: For animations I've posted a comment that has a reference to a nice articl
 <h6>iPad Pro &#x2198;</h6>
 <img src="screenshots/view-1.png" height="500" alt="View 1">
 <h6>iPhone Xr Landscape &#x2198;</h6>
-<img src="screenshots/view-2.png "height="500" alt="View 2">
+<img src="screenshots/view-2.png" alt="View 2">
 <h6>Google Pixel XL #x2198;</h6>
 <img src="screenshots/view-3.png" height="500" alt="View 3">
 <h6>Android Accelerated Oreo &#x2198;</h6>
