@@ -4,13 +4,14 @@
 * Somewhat clunky to work with, being a fairly new framework.
 * Done in VS Code, simple animations of a blue star, sun and a fancy font with my favourite emoji below it.
 
-<h6>Icon & Name &#x2198;</h6>
 <kbd><img src="screenshots/icon.png" alt="Icon"></kbd>
+
 
 More screenshots (mobile and tablet) are below the next chapter.
 
-<h6>iPhone Xr &#x2198;</h6>
+
 <kbd><img src="screenshots/gif-1.gif" height="500" alt="Gif 1"></kbd>
+
 
 The GIF is of a lower quallity, had to lower the size.
 
@@ -27,10 +28,10 @@ Note: For animations I've posted a comment that has a reference to a nice articl
 
 #### Screenshots:
 <h6>iPad Pro &#x2198;</h6>
-<img src="snapshots/view-1.png" height="500" alt="View 1">
+<img src="snapshots/view-1.png" alt="View 1">
 <h6>iPhone Xr Landscape &#x2198;</h6>
 <img src="snapshots/view-2.png" alt="View 2">
 <h6>Google Pixel XL #x2198;</h6>
-<img src="snapshots/view-3.png" height="500" alt="View 3">
+<img src="snapshots/view-3.png" alt="View 3">
 <h6>Android Accelerated Oreo &#x2198;</h6>
-<img src="snapshots/view-4.png" height="500" alt="View 4">
+<img src="snapshots/view-4.png" alt="View 4">
