@@ -1,4 +1,4 @@
-# Days Flutter App
+# Days Flutter App 🦋
 * Called <b>Days</b> because of the Sun animation that goes around for 1 cycle.
 * Google's Flutter framework 1.2 version.
 * Somewhat clunky to work with, being a fairly new framework.
