@@ -29,10 +29,10 @@ Note: For animations I've posted a comment that has a reference to a nice articl
 
 #### Screenshots:
 <h6>iPad Pro &#x2198;</h6>
-<img src="screenshots/view-1.png" alt="View 1">
+<img src="screenshots/view-1.png" height="500" alt="View 1">
 <h6>iPhone Xr Landscape &#x2198;</h6>
-<img src="screenshots/view-2.png" alt="View 2">
+<img src="screenshots/view-2.png "height="500" alt="View 2">
 <h6>Google Pixel XL #x2198;</h6>
-<img src="screenshots/view-3.png" alt="View 3">
+<img src="screenshots/view-3.png" height="500" alt="View 3">
 <h6>Android Accelerated Oreo &#x2198;</h6>
-<img src="screenshots/view-4.png" alt="View 4">
+<img src="screenshots/view-4.png" height="500" alt="View 4">
