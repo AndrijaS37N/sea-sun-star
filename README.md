@@ -4,19 +4,19 @@
 * Somewhat clunky to work with, being a fairly new framework.
 * Done in VS Code, simple animations of a blue star, sun and a fancy font with my favourite emoji below it.
 
-This is the icon.
+This is the icon:
 
 
 <img src="screenshots/icon.png" alt="Icon">
 
 
-More screenshots (mobile and tablet) are below the next chapter.
+Note #1: More screenshots (mobile and tablet) are below the next chapter.
 
 
 <img src="screenshots/gif-1.gif" height="500" alt="Gif 1">
 
 
-The GIF is of a lower quallity, had to lower the size.
+Note #2: The GIF is of a lower quallity, had to lower the size.
 
 ## Getting Started w/ Flutter
 This is a generated part of the README, a starting point for a Flutter application.
