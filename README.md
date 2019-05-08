@@ -4,6 +4,9 @@
 * Somewhat clunky to work with, being a fairly new framework.
 * Done in VS Code, simple animations of a blue star, sun and a fancy font with my favourite emoji below it.
 
+This is the icon.
+
+
 <img src="screenshots/icon.png" alt="Icon">
 
 
