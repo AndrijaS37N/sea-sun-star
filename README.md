@@ -10,10 +10,12 @@ This is the icon:
 <img src="screenshots/icon.png" alt="Icon">
 
 
+
 Note #1: More screenshots (mobile and tablet) are below the next chapter.
 
 
 <img src="screenshots/gif-1.gif" height="500" alt="Gif 1">
+
 
 
 Note #2: The GIF is of a lower quallity, had to lower the size.
